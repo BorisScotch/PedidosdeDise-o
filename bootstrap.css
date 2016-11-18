@@ -6796,7 +6796,7 @@ a.badge:focus {
 
 .footer-ba {
   height: 33px;
-  background: url(http://www.buenosaires.gob.ar/estilos/BAStrap/img/logo.png) no-repeat center top;
+  background: url(http://www.buenosaires.gob.ar/estilos/BAStrap/img/logo-white.png) no-repeat center top;
   border: none;
 }
 
@@ -6889,7 +6889,7 @@ body {
   width: 168px;
   height: 30px;
   text-indent: -100%;
-  background: url(../img/logo.png);
+  background: url(http://www.buenosaires.gob.ar/estilos/BAStrap/img/logo.png);
 }
 
 .header-gcba h2.slogan {
